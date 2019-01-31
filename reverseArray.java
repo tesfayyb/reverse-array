@@ -1,5 +1,5 @@
 
-public class reverseArray {
+public class ReverseArray {
 	
 	static void reverseArr (int [] arr) {
 		int temp;
